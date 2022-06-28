@@ -1,0 +1,4 @@
+\babel@toc {turkish}{}\relax 
+\contentsline {section}{\"OZET}{ii}{Doc-Start}%
+\contentsline {section}{ABSTRACT}{iii}{Doc-Start}%
+\contentsline {section}{\numberline {1}G\.IR\.I\c S}{1}{section.1}%

@@ -1,0 +1,163 @@
+C:\Users\teknofun\Desktop\Görsel Proje\SürücüKursu\SürücüKursu\bin\Debug\SürücüKursu.exe
+C:\Users\teknofun\Desktop\Görsel Proje\SürücüKursu\SürücüKursu\bin\Debug\SürücüKursu.pdb
+C:\Users\teknofun\Desktop\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\teknofun\Desktop\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.AdayBilgileri.resources
+C:\Users\teknofun\Desktop\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.AnaForm.resources
+C:\Users\teknofun\Desktop\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.KullaniciGiris.resources
+C:\Users\teknofun\Desktop\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.NufusBilgileri.resources
+C:\Users\teknofun\Desktop\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.Properties.Resources.resources
+C:\Users\teknofun\Desktop\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\teknofun\Desktop\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\teknofun\Desktop\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.exe
+C:\Users\teknofun\Desktop\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.pdb
+C:\Users\teknofun\Desktop\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.Odemeler.resources
+C:\Users\teknofun\Desktop\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.PersonelBilgileri.resources
+E:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.exe
+E:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.pdb
+E:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.AdayBilgileri.resources
+E:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.AnaForm.resources
+E:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.KullaniciGiris.resources
+E:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.NufusBilgileri.resources
+E:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.Odemeler.resources
+E:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.PersonelBilgileri.resources
+E:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.Properties.Resources.resources
+E:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\bin\Debug\SürücüKursu.exe
+E:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\bin\Debug\SürücüKursu.pdb
+G:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.exe
+G:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.pdb
+G:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\bin\Debug\SürücüKursu.exe
+G:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\bin\Debug\SürücüKursu.pdb
+G:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.AdayBilgileri.resources
+G:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.AnaForm.resources
+G:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.KullaniciGiris.resources
+G:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.NufusBilgileri.resources
+G:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.Odemeler.resources
+G:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.PersonelBilgileri.resources
+G:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.Properties.Resources.resources
+G:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.exe
+F:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.pdb
+F:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\bin\Debug\SürücüKursu.exe
+F:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\bin\Debug\SürücüKursu.pdb
+F:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.AdayBilgileri.resources
+F:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.AnaForm.resources
+F:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.KullaniciGiris.resources
+F:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.NufusBilgileri.resources
+F:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.Odemeler.resources
+F:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.PersonelBilgileri.resources
+F:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\SürücüKursu.Properties.Resources.resources
+F:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\PROJELER\Görsel Proje\SürücüKursu\SürücüKursu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BuKalemun\Desktop\Sürücü_Kursu_C#\SürücüKursu\obj\x86\Debug\SürücüKursu.exe
+C:\Users\BuKalemun\Desktop\Sürücü_Kursu_C#\SürücüKursu\obj\x86\Debug\SürücüKursu.pdb
+C:\Users\BuKalemun\Desktop\Sürücü_Kursu_C#\SürücüKursu\bin\Debug\SürücüKursu.exe
+C:\Users\BuKalemun\Desktop\Sürücü_Kursu_C#\SürücüKursu\bin\Debug\SürücüKursu.pdb
+C:\Users\BuKalemun\Desktop\Sürücü_Kursu_C#\SürücüKursu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BuKalemun\Desktop\Sürücü_Kursu_C#\SürücüKursu\obj\x86\Debug\SürücüKursu.AdayBilgileri.resources
+C:\Users\BuKalemun\Desktop\Sürücü_Kursu_C#\SürücüKursu\obj\x86\Debug\SürücüKursu.AnaForm.resources
+C:\Users\BuKalemun\Desktop\Sürücü_Kursu_C#\SürücüKursu\obj\x86\Debug\SürücüKursu.KullaniciGiris.resources
+C:\Users\BuKalemun\Desktop\Sürücü_Kursu_C#\SürücüKursu\obj\x86\Debug\SürücüKursu.NufusBilgileri.resources
+C:\Users\BuKalemun\Desktop\Sürücü_Kursu_C#\SürücüKursu\obj\x86\Debug\SürücüKursu.Odemeler.resources
+C:\Users\BuKalemun\Desktop\Sürücü_Kursu_C#\SürücüKursu\obj\x86\Debug\SürücüKursu.PersonelBilgileri.resources
+C:\Users\BuKalemun\Desktop\Sürücü_Kursu_C#\SürücüKursu\obj\x86\Debug\SürücüKursu.Properties.Resources.resources
+C:\Users\BuKalemun\Desktop\Sürücü_Kursu_C#\SürücüKursu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BuKalemun\Desktop\Sürücü_Kursu_C#\SürücüKursu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BuKalemun\Desktop\Sürücü_Kursu_C#\SürücüKursu\obj\x86\Debug\SürücüKursu.pass_sıfırla.resources
+C:\Users\BuKalemun\Desktop\Sürücü_Kursu_C#\SürücüKursu\obj\x86\Debug\SürücüKursu.ayarlar_giris.resources
+C:\Users\BuKalemun\Desktop\Sürücü_Kursu_C#\SürücüKursu\obj\x86\Debug\SürücüKursu.notlar.resources
+C:\Users\BuKalemun\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.exe
+C:\Users\BuKalemun\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.pdb
+C:\Users\BuKalemun\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\bin\Debug\SürücüKursu.exe
+C:\Users\BuKalemun\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\bin\Debug\SürücüKursu.pdb
+C:\Users\BuKalemun\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BuKalemun\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.AdayBilgileri.resources
+C:\Users\BuKalemun\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.AnaForm.resources
+C:\Users\BuKalemun\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.ayarlar_giris.resources
+C:\Users\BuKalemun\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.KullaniciGiris.resources
+C:\Users\BuKalemun\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.notlar.resources
+C:\Users\BuKalemun\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.NufusBilgileri.resources
+C:\Users\BuKalemun\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.Odemeler.resources
+C:\Users\BuKalemun\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.pass_sıfırla.resources
+C:\Users\BuKalemun\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.PersonelBilgileri.resources
+C:\Users\BuKalemun\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.Properties.Resources.resources
+C:\Users\BuKalemun\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BuKalemun\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\bin\Debug\SürücüKursu.exe
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\bin\Debug\SürücüKursu.pdb
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.csproj.AssemblyReference.cache
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.AdayBilgileri.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.AnaForm.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.ayarlar_giris.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.KullaniciGiris.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.notlar.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.NufusBilgileri.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.Odemeler.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.pass_sıfırla.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.PersonelBilgileri.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.Properties.Resources.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.csproj.GenerateResource.cache
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.exe
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.pdb
+C:\Users\utku\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.exe
+C:\Users\utku\Desktop\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.pdb
+C:\Users\Aleyna\Documents\SÜRÜCÜ_KURSU_SON\SürücüKursu\bin\Debug\SürücüKursu.exe
+C:\Users\Aleyna\Documents\SÜRÜCÜ_KURSU_SON\SürücüKursu\bin\Debug\SürücüKursu.pdb
+C:\Users\Aleyna\Documents\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.csproj.AssemblyReference.cache
+C:\Users\Aleyna\Documents\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.AdayBilgileri.resources
+C:\Users\Aleyna\Documents\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.AnaForm.resources
+C:\Users\Aleyna\Documents\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.Ayar.resources
+C:\Users\Aleyna\Documents\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.ayarlar_giris.resources
+C:\Users\Aleyna\Documents\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.KullaniciGiris.resources
+C:\Users\Aleyna\Documents\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.notlar.resources
+C:\Users\Aleyna\Documents\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.NufusBilgileri.resources
+C:\Users\Aleyna\Documents\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.Odemeler.resources
+C:\Users\Aleyna\Documents\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.pass_sıfırla.resources
+C:\Users\Aleyna\Documents\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.PersonelBilgileri.resources
+C:\Users\Aleyna\Documents\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.Properties.Resources.resources
+C:\Users\Aleyna\Documents\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.csproj.GenerateResource.cache
+C:\Users\Aleyna\Documents\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Documents\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.exe
+C:\Users\Aleyna\Documents\SÜRÜCÜ_KURSU_SON\SürücüKursu\obj\x86\Debug\SürücüKursu.pdb
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_utku_babanız_beşiktaş_aleyna_faro_el_ele\SürücüKursu\bin\Debug\SürücüKursu.exe
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_utku_babanız_beşiktaş_aleyna_faro_el_ele\SürücüKursu\bin\Debug\SürücüKursu.pdb
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_utku_babanız_beşiktaş_aleyna_faro_el_ele\SürücüKursu\obj\x86\Debug\SürücüKursu.csproj.AssemblyReference.cache
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_utku_babanız_beşiktaş_aleyna_faro_el_ele\SürücüKursu\obj\x86\Debug\SürücüKursu.AdayBilgileri.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_utku_babanız_beşiktaş_aleyna_faro_el_ele\SürücüKursu\obj\x86\Debug\SürücüKursu.AnaForm.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_utku_babanız_beşiktaş_aleyna_faro_el_ele\SürücüKursu\obj\x86\Debug\SürücüKursu.Ayar.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_utku_babanız_beşiktaş_aleyna_faro_el_ele\SürücüKursu\obj\x86\Debug\SürücüKursu.ayarlar_giris.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_utku_babanız_beşiktaş_aleyna_faro_el_ele\SürücüKursu\obj\x86\Debug\SürücüKursu.KullaniciGiris.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_utku_babanız_beşiktaş_aleyna_faro_el_ele\SürücüKursu\obj\x86\Debug\SürücüKursu.notlar.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_utku_babanız_beşiktaş_aleyna_faro_el_ele\SürücüKursu\obj\x86\Debug\SürücüKursu.NufusBilgileri.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_utku_babanız_beşiktaş_aleyna_faro_el_ele\SürücüKursu\obj\x86\Debug\SürücüKursu.Odemeler.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_utku_babanız_beşiktaş_aleyna_faro_el_ele\SürücüKursu\obj\x86\Debug\SürücüKursu.pass_sıfırla.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_utku_babanız_beşiktaş_aleyna_faro_el_ele\SürücüKursu\obj\x86\Debug\SürücüKursu.PersonelBilgileri.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_utku_babanız_beşiktaş_aleyna_faro_el_ele\SürücüKursu\obj\x86\Debug\SürücüKursu.Properties.Resources.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_utku_babanız_beşiktaş_aleyna_faro_el_ele\SürücüKursu\obj\x86\Debug\SürücüKursu.csproj.GenerateResource.cache
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_utku_babanız_beşiktaş_aleyna_faro_el_ele\SürücüKursu\obj\x86\Debug\SürücüKursu.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_utku_babanız_beşiktaş_aleyna_faro_el_ele\SürücüKursu\obj\x86\Debug\SürücüKursu.exe
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_utku_babanız_beşiktaş_aleyna_faro_el_ele\SürücüKursu\obj\x86\Debug\SürücüKursu.pdb
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_aleyna\SürücüKursu\bin\Debug\SürücüKursu.exe
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_aleyna\SürücüKursu\bin\Debug\SürücüKursu.pdb
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_aleyna\SürücüKursu\obj\x86\Debug\SürücüKursu.csproj.AssemblyReference.cache
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_aleyna\SürücüKursu\obj\x86\Debug\SürücüKursu.AdayBilgileri.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_aleyna\SürücüKursu\obj\x86\Debug\SürücüKursu.AnaForm.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_aleyna\SürücüKursu\obj\x86\Debug\SürücüKursu.Ayar.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_aleyna\SürücüKursu\obj\x86\Debug\SürücüKursu.ayarlar_giris.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_aleyna\SürücüKursu\obj\x86\Debug\SürücüKursu.KullaniciGiris.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_aleyna\SürücüKursu\obj\x86\Debug\SürücüKursu.notlar.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_aleyna\SürücüKursu\obj\x86\Debug\SürücüKursu.NufusBilgileri.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_aleyna\SürücüKursu\obj\x86\Debug\SürücüKursu.Odemeler.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_aleyna\SürücüKursu\obj\x86\Debug\SürücüKursu.pass_sıfırla.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_aleyna\SürücüKursu\obj\x86\Debug\SürücüKursu.PersonelBilgileri.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_aleyna\SürücüKursu\obj\x86\Debug\SürücüKursu.Properties.Resources.resources
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_aleyna\SürücüKursu\obj\x86\Debug\SürücüKursu.csproj.GenerateResource.cache
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_aleyna\SürücüKursu\obj\x86\Debug\SürücüKursu.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_aleyna\SürücüKursu\obj\x86\Debug\SürücüKursu.exe
+C:\Users\Aleyna\Desktop\SÜRÜCÜ_KURSU_SON_aleyna\SürücüKursu\obj\x86\Debug\SürücüKursu.pdb
